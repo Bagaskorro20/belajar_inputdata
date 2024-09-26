@@ -90,7 +90,7 @@ class _HomeState extends State<Home> {
               controller: _search,
               focusNode: _focusSearch,
               decoration: InputDecoration(
-                hintText: "Search",
+                hintText: "Searching",
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(30),
                 ),
